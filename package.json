@@ -1,0 +1,16 @@
+{
+  "name": "truffle-ipfs",
+  "version": "1.0.0",
+  "description": "Nft para ipfs",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test ./test/"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.0",
+    "dotenv": "^8.2.0",
+    "ganache-cli": "^6.12.2"
+  },
+  "author": "Lucio Rocca",
+  "license": "ISC"
+}
